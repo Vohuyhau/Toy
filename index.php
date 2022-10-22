@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
     <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
-    <link rel="shortcut icon" href="ATNtoy\Logo.png">
+    <link rel="shortcut icon" href="ATNtoy\ATNlogo.png">
 </head>
 
 <body>
