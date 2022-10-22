@@ -116,7 +116,7 @@ include_once("connection.php");
         </div>
         <div class="humberger__menu__contact">
             <ul>
-                <li><i class="fa fa-envelope"></i> sieungccgcc19186@fpt.edu.vn</li>
+                <li><i class="fa fa-envelope"></i> atnshop@gmail.com</li>
                 <li>A shopping website for toy</li>
             </ul>
         </div>
@@ -143,7 +143,7 @@ include_once("connection.php");
                     <div class="col-lg-6 col-md-6">
                         <div class="header__top__left">
                             <ul>
-                                <li><i class="fa fa-envelope"></i> sieungcc19186@fpt.edu.vn</li>
+                                <li><i class="fa fa-envelope"></i> atnshop@gmail.com</li>
                                 <li>A shopping website for toy </li>
                             </ul>
                         </div>
@@ -210,7 +210,7 @@ include_once("connection.php");
             <div class="row">
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="?page=content"><img src="ATNtoy/Logo.png" alt=""></a>
+                        <a href="?page=content"><img src="ATNtoy/ATNlogo.png" alt=""></a>
                     </div>
                 </div>
                 
