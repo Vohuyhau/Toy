@@ -66,8 +66,8 @@
                             <h5><a href="#"> Bumblebee M03 </a></h5>
                         </div>
                     </div>
-                    <div class="categories__item set-bg" data-setbg="ATNtoy/Mikey.jpg">
-                            <h5><a href="#">Mikey Sanjiro</a></h5>
+                    <div class="categories__item set-bg" data-setbg="ATNtoy/Rongthan.jpg">
+                            <h5><a href="#"> God Dragon</a></h5>
                         </div>
                     </div>
                 </div>
