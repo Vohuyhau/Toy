@@ -399,12 +399,12 @@ include_once("connection.php");
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer__about">
                         <div class="footer__about__logo">
-                            <a href="./index.html"><img src="ATNtoy/Logo.png" alt=""></a>
+                            <a href="./index.html"><img src="ATNtoy/ATNlogo.png" alt=""></a>
                         </div>
                         <ul>
                             <li>Address: 160 Road 30/4 An Phu, Ninh Kieu, Can Tho, Vietnam</li>
-                            <li>Phone: +84 90 785 3006</li>
-                            <li>Email: sieungcc19186@fpt.edu.vn</li>
+                            <li>Phone: 1900 6787</li>
+                            <li>Email: atnshop@gmail.com</li>
                         </ul>
                     </div>
                 </div>
@@ -449,7 +449,7 @@ include_once("connection.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="footer__copyright">
-                        <div class="footer__copyright__text"> Sieu Nguyen</div>
+                        <div class="footer__copyright__text"> atnshop</div>
                         <div class="footer__copyright__payment"><img src="img/payment-item.png" alt=""></div>
                     </div>
                 </div>
