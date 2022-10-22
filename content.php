@@ -65,7 +65,7 @@
                     </div>
                     <div class="col-lg-3">
                         <div class="categories__item set-bg" data-setbg="ATNtoy/Robot.jpg">
-                            <h5><a href="#"> Bumblebee M03 Battle Hornet Wei Jiang Robot Force Transformers </a></h5>
+                            <h5><a href="#"> Bumblebee M03 </a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
