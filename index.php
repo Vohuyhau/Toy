@@ -63,7 +63,7 @@ include_once("connection.php");
 									 <table>
                                         <tr>
                                             <td>
-                                                <a href="?page=prof"><i class="fa fa-user"></i> Hi,<?php echo $_SESSION['us'] ?></a>
+                                                <a href="?page=prof"><i class="fa fa-user"></i> Welcome,<?php echo $_SESSION['us'] ?></a>
                                             </td>
                                             <td>
                                              <a href="?page=logout"><i class="fa fa-sign-out"></i>| Log Out</a>
@@ -172,7 +172,7 @@ include_once("connection.php");
 									 <table>
                                         <tr>
                                             <td>
-                                                <a href="?page=prof"><i class="fa fa-user"></i> Hi,<?php echo $_SESSION['us'] ?></a>
+                                                <a href="?page=prof"><i class="fa fa-user"></i> Welcome,<?php echo $_SESSION['us'] ?></a>
                                             </td>
                                             <td>
                                              <a href="?page=logout"><i class="fa fa-sign-out"></i>| Log Out</a>
