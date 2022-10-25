@@ -116,7 +116,7 @@ include_once("connection.php");
         </div>
         <div class="humberger__menu__contact">
             <ul>
-                <li><i class="fa fa-envelope"></i> sieungccgcc19186@fpt.edu.vn</li>
+                <li><i class="fa fa-envelope"></i> ATNshop@gmail.com </li>
                 <li>A shopping website for toy</li>
             </ul>
         </div>
@@ -143,7 +143,7 @@ include_once("connection.php");
                     <div class="col-lg-6 col-md-6">
                         <div class="header__top__left">
                             <ul>
-                                <li><i class="fa fa-envelope"></i> sieungcc19186@fpt.edu.vn</li>
+                                <li><i class="fa fa-envelope"></i> ATNshop@gmail.com</li>
                                 <li>A shopping website for toy </li>
                             </ul>
                         </div>
@@ -229,7 +229,7 @@ include_once("connection.php");
                             ?>  <li><a id ="CMM"href="?page=pm">Product Management </a>
                                     <ul class="header__menu__dropdown">
                                     <li><a href="?page=cat">Category Management</a></li>
-                                    <li><a href="?page=branch">Branch Management</a></li>
+                                    <li><a href="?page=Shop">Shop Management</a></li>
                                     </ul>
                                     <li><a href="?page=content">Pages</a>
                                 <ul class="header__menu__dropdown">
@@ -364,16 +364,16 @@ include_once("connection.php");
         } else if($page=="prof")
         {
             include_once('profile.php');
-         } else if($page=="branch")
+         } else if($page=="Shop")
          {
-             include_once('branch.php');
+             include_once('Shop.php');
          }
         else if($page=="upbr")
         {
-            include_once('update_branch.php');
+            include_once('update_Shop.php');
         } else if($page=="addbr")
         {
-            include_once('add_branch.php');
+            include_once('add_Shop.php');
         }
         
         else if($page=="Fea")
