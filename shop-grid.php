@@ -38,7 +38,7 @@
                                 <i class="fa fa-phone"></i>
                             </div>
                             <div class="hero__search__phone__text">
-                                <h5>+84 09 078 53006</h5>
+                                <h5>1900 6768 </h5>
                                 <span>support 24/7 time</span>
                             </div>
                         </div>
@@ -171,7 +171,7 @@
                                     <div class="latest-prdouct__slider__item">
                                         <a href="#" class="latest-product__item">
                                             <div class="latest-product__item__pic">
-                                                <img src="ATNtoy/ace.jpg" alt="">
+                                                <img src="ATNtoy/Goku.jpg" alt="">
                                             </div>
                                             <div class="latest-product__item__text">
                                                 <h6></h6>
@@ -180,7 +180,7 @@
                                         </a>
                                         <a href="#" class="latest-product__item">
                                             <div class="latest-product__item__pic">
-                                                <img src="ATNtoy/luffy.jpg" alt="">
+                                                <img src="ATNtoy/Vegeta.jpg" alt="">
                                             </div>
                                             <div class="latest-product__item__text">
                                                 <h6></h6>
@@ -189,7 +189,7 @@
                                         </a>
                                         <a href="#" class="latest-product__item">
                                             <div class="latest-product__item__pic">
-                                                <img src="ATNtoy/Levi.jpg" alt="">
+                                                <img src="ATNtoy/Porunga.jpg" alt="">
                                             </div>
                                             <div class="latest-product__item__text">
                                                 <h6></h6>
@@ -200,7 +200,7 @@
                                     <div class="latest-prdouct__slider__item">
                                         <a href="#" class="latest-product__item">
                                             <div class="latest-product__item__pic">
-                                                <img src="ATNtoy/Mikey.jpg" alt="">
+                                                <img src="ATNtoy/Frieza.jpg" alt="">
                                             </div>
                                             <div class="latest-product__item__text">
                                                 <h6></h6>
