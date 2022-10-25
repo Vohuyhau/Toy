@@ -402,9 +402,9 @@ include_once("connection.php");
                             <a href="./index.html"><img src="ATNtoy/Logo.jpg" alt=""></a>
                         </div>
                         <ul>
-                            <li>Address: 160 Road 30/4 An Phu, Ninh Kieu, Can Tho, Vietnam</li>
-                            <li>Phone: +84 90 785 3006</li>
-                            <li>Email: sieungcc19186@fpt.edu.vn</li>
+                            <li>Address: 160 Road 28,11B Street,Hung Phu,Ninh Kieu,Can Tho,Vietnam</li>
+                            <li>Phone: 1900 6768</li>
+                            <li>Email: ATNshop@gmail.com</li>
                         </ul>
                     </div>
                 </div>
@@ -449,7 +449,7 @@ include_once("connection.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="footer__copyright">
-                        <div class="footer__copyright__text"> Sieu Nguyen</div>
+                        <div class="footer__copyright__text"> Logo.jpg Nguyen</div>
                         <div class="footer__copyright__payment"><img src="img/payment-item.png" alt=""></div>
                     </div>
                 </div>
