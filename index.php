@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
     <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
-    <link rel="shortcut icon" href="ATNtoy\Logo.png">
+    <link rel="shortcut icon" href="ATNtoy\Logo.jpg">
 </head>
 
 <body>
@@ -37,7 +37,7 @@ include_once("connection.php");
     <div class="humberger__menu__overlay"></div>
     <div class="humberger__menu__wrapper">
         <div class="humberger__menu__logo">
-            <a href="?page=content"><img src="ATNtoy/Logo.png" alt=""></a>
+            <a href="?page=content"><img src="ATNtoy/Logo.jpg" alt=""></a>
         </div>
         <div class="humberger__menu__cart">
             <ul>
@@ -210,7 +210,7 @@ include_once("connection.php");
             <div class="row">
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="?page=content"><img src="ATNtoy/Logo.png" alt=""></a>
+                        <a href="?page=content"><img src="ATNtoy/Logo.jpg" alt=""></a>
                     </div>
                 </div>
                 
@@ -399,7 +399,7 @@ include_once("connection.php");
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer__about">
                         <div class="footer__about__logo">
-                            <a href="./index.html"><img src="ATNtoy/Logo.png" alt=""></a>
+                            <a href="./index.html"><img src="ATNtoy/Logo.jpg" alt=""></a>
                         </div>
                         <ul>
                             <li>Address: 160 Road 30/4 An Phu, Ninh Kieu, Can Tho, Vietnam</li>
