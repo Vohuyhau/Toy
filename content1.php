@@ -39,7 +39,7 @@
                             <span>Welcome to</span>
                             <h2>ATN <br />Shop</h2> 
                             
-                            <a href="?page=shop-grid" class="primary-btn">SHOP NOW</a>
+                            <a href="?page=shop-grid" class="primary-btn">Click here</a>
                         </div>
                     </div>
                 </div>
