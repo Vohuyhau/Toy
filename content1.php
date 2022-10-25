@@ -34,7 +34,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="hero__item set-bg" data-setbg="/ATNtoy/bg2.jpg">
+                    <div class="hero__item set-bg" data-setbg="ATNtoy/background.jpg">
                         <div class="hero__text">
                             <span>NEW ON</span>
                             <h2>ATN <br />TOY</h2> 
@@ -54,20 +54,20 @@
             <div class="row">
                 <div class="categories__slider owl-carousel">
                     <div class="col-lg-3">
-                    <div class="categories__item set-bg" data-setbg="ATNtoy/br.jpg">
-                            <h5><a href="#">Nike Basketball LeBron James</a></h5>
+                    <div class="categories__item set-bg" data-setbg="ATNtoy/acee.jpg">
+                            <h5><a href="#">Portgas.D. Ace</a></h5>
                         </div>
-                        <div class="categories__item set-bg" data-setbg="ATNtoy/Sieuxe.jpg">
-                            <h5><a href="#"> BMW I8 </a></h5>
+                        <div class="categories__item set-bg" data-setbg="ATNtoy/luffy.jpg">
+                            <h5><a href="#">Mokey. D. Luffy</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="ATNtoy/Robot.jpg">
-                            <h5><a href="#"> Bumblebee M03 </a></h5>
+                        <div class="categories__item set-bg" data-setbg="ATNtoy/Levi.jpg">
+                            <h5><a href="#">Levi Akerman</a></h5>
                         </div>
                     </div>
-                    <div class="categories__item set-bg" data-setbg="ATNtoy/Rongthan.jpg">
-                            <h5><a href="#"> God Dragon</a></h5>
+                    <div class="categories__item set-bg" data-setbg="ATNtoy/Mikey.jpg">
+                            <h5><a href="#">Mikey Sanjiro</a></h5>
                         </div>
                     </div>
                 </div>
