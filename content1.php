@@ -29,17 +29,17 @@
                                 <i class="fa fa-phone"></i>
                             </div>
                             <div class="hero__search__phone__text">
-                                <h5> 1900 6768</h5>
+                                <h5>+84 90 785 3006</h5>
                                 <span>support 24/7 time</span>
                             </div>
                         </div>
                     </div>
-                    <div class="hero__item set-bg" data-setbg="ATNtoy/Bg.jpg">
+                    <div class="hero__item set-bg" data-setbg="ATNtoy/background.jpg">
                         <div class="hero__text">
-                            <span>Welcome to</span>
-                            <h2>ATN <br />Shop</h2> 
+                            <span>NEW ON</span>
+                            <h2>ATN <br />TOY</h2> 
                             
-                            <a href="?page=shop-grid" class="primary-btn">Click here</a>
+                            <a href="?page=shop-grid" class="primary-btn">SHOP NOW</a>
                         </div>
                     </div>
                 </div>
@@ -54,20 +54,20 @@
             <div class="row">
                 <div class="categories__slider owl-carousel">
                     <div class="col-lg-3">
-                    <div class="categories__item set-bg" data-setbg="ATNtoy/Goku.jpg">
-                            <h5><a href="#">Songoku</a></h5>
+                    <div class="categories__item set-bg" data-setbg="ATNtoy/acee.jpg">
+                            <h5><a href="#">Portgas.D. Ace</a></h5>
                         </div>
-                        <div class="categories__item set-bg" data-setbg="ATNtoy/Vegeta.jpg">
-                            <h5><a href="#">Vegeta</a></h5>
+                        <div class="categories__item set-bg" data-setbg="ATNtoy/luffy.jpg">
+                            <h5><a href="#">Mokey. D. Luffy</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="ATNtoy/Rongthan.jpg">
-                            <h5><a href="#">Porunga</a></h5>
+                        <div class="categories__item set-bg" data-setbg="ATNtoy/Levi.jpg">
+                            <h5><a href="#">Levi Akerman</a></h5>
                         </div>
                     </div>
-                    <div class="categories__item set-bg" data-setbg="ATNtoy/Frieza.jpg">
-                            <h5><a href="#">Frieza</a></h5>
+                    <div class="categories__item set-bg" data-setbg="ATNtoy/Mikey.jpg">
+                            <h5><a href="#">Mikey Sanjiro</a></h5>
                         </div>
                     </div>
                 </div>

@@ -5,10 +5,10 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="breadcrumb__text">
-                        <h2>Shop Management</h2>
+                        <h2>Branch Management</h2>
                         <div class="breadcrumb__option">
                             <a href="?page=content">Home</a>
-                            <span>Shop Management</span>
+                            <span>Branch Management</span>
                         </div>
                     </div>
                 </div>
@@ -27,11 +27,11 @@
 			$err = "";
 			if($id=="")
 			{
-				$err .= "Enter Shop ID</br>";
+				$err .= "Enter branch ID</br>";
 			}
 			if($name=="")
 			{
-				$err .= "Enter Shop name</br>";
+				$err .= "Enter branch name</br>";
 			}
 			if($err != "")
 			{
@@ -39,12 +39,12 @@
 			}
 			else
 			{
-				$sql = "select * from Shop where Shop_id ='$id' and Shop_name = '$name'";
+				$sql = "select * from branch where branch_id ='$id' and branch_name = '$name'";
 				$result = pg_query($conn, $sql);
 				if(pg_num_rows($result)=="0")
 				{
-					pg_query($conn, "insert into Shop (Shop_id, Shop_name) values ('$id', '$name')");
-					echo '<meta http-equiv="refresh" content="0;URL =?page=Shop"';
+					pg_query($conn, "insert into branch (branch_id, branch_name) values ('$id', '$name')");
+					echo '<meta http-equiv="refresh" content="0;URL =?page=branch"';
 				}
 				else
 				{
@@ -55,18 +55,18 @@
 	?>
 
 <div class="container">
-	<h2>Adding Shop</h2>
+	<h2>Adding Branch</h2>
 			 	<form id="form1" name="form1" method="post" action="" class="form-horizontal" role="form">
 				 <div class="form-group">
-						    <label for="txtTen" class="col-sm-2 control-label">Shop ID(*):  </label>
+						    <label for="txtTen" class="col-sm-2 control-label">Branch ID(*):  </label>
 							<div class="col-sm-10">
-							      <input type="text" name="txtID" id="txtID" class="form-control" placeholder="Shop ID" value='<?php echo isset($_POST["txtID"])?($_POST["txtID"]):"";?>'>
+							      <input type="text" name="txtID" id="txtID" class="form-control" placeholder="Branch ID" value='<?php echo isset($_POST["txtID"])?($_POST["txtID"]):"";?>'>
 							</div>
 					</div>	
 				 <div class="form-group">
-						    <label for="txtTen" class="col-sm-2 control-label">Shop Name(*):  </label>
+						    <label for="txtTen" class="col-sm-2 control-label">Branch Name(*):  </label>
 							<div class="col-sm-10">
-							      <input type="text" name="txtName" id="txtName" class="form-control" placeholder="Shop Name" value='<?php echo isset($_POST["txtName"])?($_POST["txtName"]):"";?>'>
+							      <input type="text" name="txtName" id="txtName" class="form-control" placeholder="Branch Name" value='<?php echo isset($_POST["txtName"])?($_POST["txtName"]):"";?>'>
 							</div>
 					</div>
                     
@@ -74,7 +74,7 @@
 					<div class="form-group">
 						<div class="col-sm-offset-2 col-sm-10">
 						      <input type="submit"  class="site-btn" name="btnAdd" id="btnAdd" value="Add new"/>
-                              <input type="button" class="site-btn" name="btnIgnore"  id="btnIgnore" value="Ignore" onclick="window.location='?page=Shop'" />
+                              <input type="button" class="site-btn" name="btnIgnore"  id="btnIgnore" value="Ignore" onclick="window.location='?page=branch'" />
                               	
 						</div>
 					</div>

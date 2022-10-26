@@ -34,7 +34,7 @@
                                 <i class="fa fa-phone"></i>
                             </div>
                             <div class="hero__search__phone__text">
-                                <h5> 1900 6768</h5>
+                                <h5> +84 09 0785 3006</h5>
                                 <span>support 24/7 time</span>
                             </div>
                         </div>
@@ -188,7 +188,7 @@
                 </div>
 
 				<div class="form-group">   
-                    <label for="" class="col-sm-2 control-label">Shop(*):  </label>
+                    <label for="" class="col-sm-2 control-label">Branch(*):  </label>
 							<div class="col-sm-10">
                             
 							      <?php bind_Branch_List($conn); ?>
